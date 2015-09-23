@@ -9,4 +9,6 @@ environment:
 
 dependencies:
   shelf: ">=0.5.0 <0.7.0"
-  rpc: ">=0.5.0 <0.6.0"
+  rpc: #^0.5.4
+    git:
+      url: git@github.com:enyo/rpc.git
