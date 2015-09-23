@@ -11,4 +11,4 @@ dependencies:
   shelf: ">=0.5.0 <0.7.0"
   rpc: #^0.5.4
     git:
-      url: https://github.com/enyo/rpc.git
+      url: https://github.com/dart-lang/rpc.git
